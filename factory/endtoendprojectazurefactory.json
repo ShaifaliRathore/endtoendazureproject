@@ -1,0 +1,15 @@
+{
+	"name": "endtoendprojectazurefactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d471b39a-3c18-445d-bf44-19ff8005d615",
+		"tenantId": "3e10a136-e9c2-426a-a575-ac3f4a616790"
+	}
+}
